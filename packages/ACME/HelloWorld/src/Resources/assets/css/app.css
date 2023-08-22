@@ -1,0 +1,1047 @@
+._1659198207680,
+._1659198207680 * {
+    box-sizing: border-box;
+}
+._1659198207680 {
+    width: 240.64px;
+    height: 51.33px;
+    position: relative;
+    overflow: hidden;
+}
+.vector {
+    position: absolute;
+    left: 188.3px;
+    top: 13.23px;
+    overflow: visible;
+}
+.vector2 {
+    position: absolute;
+    left: 0px;
+    top: 8.9px;
+    overflow: visible;
+}
+.vector3 {
+    position: absolute;
+    left: 16.82px;
+    top: 15.47px;
+    overflow: visible;
+}
+.vector4 {
+    position: absolute;
+    left: 16.82px;
+    top: 28.89px;
+    overflow: visible;
+}
+.vector5 {
+    position: absolute;
+    left: 9.04px;
+    top: 23.24px;
+    overflow: visible;
+}
+.vector6 {
+    position: absolute;
+    left: 22.49px;
+    top: 23.24px;
+    overflow: visible;
+}
+.vector7 {
+    position: absolute;
+    left: 220.25px;
+    top: 19.95px;
+    overflow: visible;
+}
+.vector8 {
+    position: absolute;
+    left: 220.25px;
+    top: 34.31px;
+    overflow: visible;
+}
+.vector9 {
+    position: absolute;
+    left: 227.41px;
+    top: 27.13px;
+    overflow: visible;
+}
+.vector10 {
+    position: absolute;
+    left: 213.01px;
+    top: 27.13px;
+    overflow: visible;
+}
+.gamers {
+    color: #4651a0;
+    text-align: left;
+    font: 400 33.06px "Broadway", sans-serif;
+    position: absolute;
+    left: 51.22px;
+    top: 0px;
+    width: 148.39px;
+}
+.your-game-store {
+    color: #4651a0;
+    text-align: left;
+    font: 400 italic 14.56px "DM Sans", sans-serif;
+    position: absolute;
+    left: 66.65px;
+    top: 32.33px;
+    width: 110.29px;
+}
+
+.combobox,
+.combobox * {
+    box-sizing: border-box;
+}
+.combobox {
+    background: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #eeeeee;
+    border-width: 1px;
+    padding: 16.4px 67.6px 16.4px 21.6px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 519px;
+    height: 52px;
+    max-width: 560px;
+    min-height: 52px;
+    position: relative;
+}
+.pseudo {
+    padding: 1px 352.8px 0.2px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 470.8px;
+    height: 19.2px;
+    position: relative;
+    overflow: hidden;
+}
+.vector-stroke {
+    border-radius: 0px;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+.search-our-store {
+    color: #444444;
+    text-align: left;
+    font: 400 14px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.my_bg_primary{
+    background: #4651a0;
+    border-style: solid;
+    border-color: #1e1e1e;
+    border-width: 2.4px 0px 0px 0px;
+}
+
+.frame-1000004477,
+.frame-1000004477 * {
+    box-sizing: border-box;
+}
+.frame-1000004477 {
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+}
+.link-svg {
+    padding: 1.25px 0px 1.25px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+.list-margin {
+    padding: 0px 10px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-end;
+    flex-shrink: 0;
+    position: relative;
+}
+.list-item {
+    padding: 30px 0px 34.2px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+.link-svg2 {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+.span-total-pro {
+    background: #e52e06;
+    border-radius: 22px;
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    right: -12px;
+    bottom: 23px;
+}
+._3 {
+    color: #ffffff;
+    text-align: center;
+    font: 700 12px/22px "Inter", sans-serif;
+    position: absolute;
+    left: calc(50% - 3.59px);
+    top: 3.2px;
+    width: 7.37px;
+    height: 15.2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.frame-1000004478 {
+    display: flex;
+    flex-direction: row;
+    gap: 33px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+.login {
+    color: #4651a0;
+    text-align: left;
+    font: 600 13.95px/31.39px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-3 {
+    background: #4651a0;
+    border-radius: 5px;
+    padding: 5.81px 24px 5.81px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 5.81px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 108px;
+    height: 52px;
+    position: relative;
+}
+.get-started {
+    color: #f1f9ff;
+    text-align: left;
+    font: 600 13.95px/31.39px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.custom-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.custom-grid > .col-md-8 {
+    flex: 0 0 66.66%; /* Larger first column */
+    max-width: 66.66%;
+}
+.custom-grid > .col-md-4 {
+    flex: 0 0 33.33%; /* Smaller second column */
+    max-width: 33.33%;
+}
+@media (max-width: 768px) {
+    .custom-grid > .col-md-8, .custom-grid > .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+
+.div-single-hero-slider,
+.div-single-hero-slider * {
+    box-sizing: border-box;
+}
+
+.div-single-hero-slider {
+    background: linear-gradient(to left, #aaaaaa, #aaaaaa);
+    flex-shrink: 0;
+    height: 457.54px;
+    position: relative;
+    padding: 0 16px;
+    margin: 0 auto;
+}
+
+.div-hero-slider-content-1 {
+    width: 100%;
+    max-width: 635.3px;
+    height: 310.94px;
+    position: absolute;
+    left: 0;
+    bottom: 49.73px;
+}
+
+.div-slider-product-offer-wrap {
+    height: 27.87px;
+    position: absolute;
+    right: 53.41px;
+    left: 53.40972137451172px;
+    top: 0;
+}
+
+.span-red {
+    background: #e4573d;
+    border-radius: 1.78px;
+    padding: 4.09px 8.45px 6.59px 8.9px;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 0;
+    bottom: 2.1px;
+    top: 2.0903964042663574px;
+}
+
+._28 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 12.46px/12.46px "Inter", sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.p-h-2-d-a-9-cbfbce {
+    padding: 0 1.5px 0.28px 0;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 60.08px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.samsung-vr {
+    color: #2b2b2b;
+    text-align: left;
+    font: 400 15.13px/27.88px "Inter", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.up-to-40-off-premium-samsung-vr {
+    color: #2b2b2b;
+    text-align: left;
+    font: 700 35.81px "Source Sans Pro", sans-serif;
+    position: absolute;
+    left: 52.08px;
+    top: 43.15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.we-work-with-global-brand-and-have-create-an-smart-gadget-for-you-to-make-easiest-life {
+    color: #2b2b2b;
+    text-align: left;
+    font: 400 13.93px "Source Sans Pro", sans-serif;
+    position: absolute;
+    left: 53.57px;
+    top: 152.3px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.link {
+    background: #323232;
+    border-radius: 44.51px;
+    padding: 11.93px 40.1px 14.78px 37.39px;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 53.41px;
+    top: 218.37px;
+}
+
+.buy-now {
+    color: #ffffff;
+    text-align: left;
+    font: 700 13.93px/21.36px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.div-banner-content-1,
+.div-banner-content-1 * {
+    box-sizing: border-box;
+}
+
+.div-banner-content-1 {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 370.9px;
+    height: 115.37px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.modern-c-ontroller {
+    color: #ffffff;
+    text-align: left;
+    font: 400 12.46px/21.36px "Inter", sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: 24.92px;
+    top: -0.53px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.heading-2-new-collection {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20.47px/25.64px "Inter", sans-serif;
+    position: absolute;
+    left: 24.92px;
+    top: 30.44px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.heading-3-99-00 {
+    color: #ffa412;
+    text-align: left;
+    font: 700 19.58px/25.64px "Inter", sans-serif;
+    position: absolute;
+    left: 24.92px;
+    top: 66.76px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.div-banner-content-1,
+.div-banner-content-1 * {
+    box-sizing: border-box;
+}
+
+.div-banner-content-1 {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 370.9px;
+    height: 115.37px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.headset {
+    color: #ffffff;
+    text-align: left;
+    font: 400 12.46px/21.36px "Inter", sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: 24.92px;
+    top: -0.53px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.heading-2-best-seller-product {
+    color: #ffffff;
+    text-align: left;
+    font: 400 19.58px/25.64px "Inter", sans-serif;
+    position: absolute;
+    left: 24.92px;
+    top: 30.44px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.heading-3-15-00 {
+    color: #e4573d;
+    text-align: left;
+    font: 700 20.47px/25.64px "Inter", sans-serif;
+    position: absolute;
+    left: 24.92px;
+    top: 66.76px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.div-product-header,
+.div-product-header * {
+    box-sizing: border-box;
+}
+
+.div-product-header {
+    background: rgba(70, 81, 160, 0.05);
+    width: 100%;
+    max-width: 1128px;
+    height: 54px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.items-on-sale {
+    color: #4b4b4b;
+    text-align: left;
+    font: 700 30px/38px "Source Sans Pro", sans-serif;
+    position: absolute;
+    left: 16px;
+    top: 8px;
+    width: 100%; /* Adjust to fit the container width */
+    max-width: 306.95px;
+    height: 37.6px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.a-d-flex {
+    width: 99.6px;
+    height: 25px;
+    position: absolute;
+    right: 16px; /* Adjust to fit the container width */
+    top: 14.5px;
+}
+
+.frame-1000004440 {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 50%; /* Center horizontally */
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.view-all {
+    color: #4b4b4b;
+    text-align: left;
+    font: 300 20px/25px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.frame {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+}
+
+
+.div-product-wrapper,
+.div-product-wrapper * {
+    box-sizing: border-box;
+}
+.div-product-wrapper {
+    width: 216.57px;
+    height: 342.44px;
+    position: relative;
+}
+.frame-34042 {
+    display: flex;
+    flex-direction: column;
+    gap: 16.66px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 18.51px;
+    top: 206.2px;
+}
+.frame-34041 {
+    display: flex;
+    flex-direction: column;
+    gap: 6.48px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+.frame-34040 {
+    display: flex;
+    flex-direction: column;
+    gap: 1.85px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+.fifa-2022 {
+    color: #202435;
+    text-align: left;
+    font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.few-units-left {
+    color: #ed174a;
+    text-align: left;
+    font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-34038 {
+    display: flex;
+    flex-direction: row;
+    gap: 3.7px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+.frame-34037 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+.n {
+    color: #c2c2d3;
+    text-align: left;
+    font: 600 14.16px/21.24px "Source Sans Pro", sans-serif;
+    text-decoration: line-through;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+._20-00-35 {
+    color: #c2c2d3;
+    text-align: left;
+    font: 600 14.16px/21.24px "Source Sans Pro", sans-serif;
+    text-decoration: line-through;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-34039 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+.n2 {
+    color: #d51243;
+    text-align: left;
+    font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+    text-decoration: line-through;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+._25-000-14 {
+    color: #d51243;
+    text-align: left;
+    font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.read-more-about-all-natural-italian-style-chicken-meatballs {
+    background: #4651a0;
+    border-radius: 12.96px;
+    border-style: solid;
+    border-color: #4651a0;
+    border-width: 0.93px;
+    padding: 7.22px 47.2px 7.59px 46.28px;
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 179.55px;
+    position: relative;
+}
+.shopping-cart {
+    color: #ffffff;
+    text-align: center;
+    font: 400 22.21px/22.21px "Material Icons", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.add-to-cart {
+    color: #ffffff;
+    text-align: left;
+    font: 600 14px/16.66px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.image-375 {
+    width: 194.36px;
+    height: 173.99px;
+    position: absolute;
+    left: 8.33px;
+    top: 14.81px;
+}
+.span-badge {
+    background: #f50000;
+    border-radius: 100px;
+    padding: 5.92px 11.47px 5.18px 10.18px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    height: 21.74px;
+    position: absolute;
+    left: 7.91px;
+    top: 15.75px;
+}
+._23-off {
+    color: #ffffff;
+    text-align: center;
+    font: 600 12px/11.11px "Source Sans Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.div-banner-content-1,
+.div-banner-content-1 * {
+    box-sizing: border-box;
+}
+
+.div-banner-content-1 {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 1128px;
+    height: 151.53px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+._30-nov-03-dec,
+.heading-2-the-wait-is-on-i-phone-14-max-pro,
+.heading-3-999-00,
+.link {
+    text-align: center;
+}
+
+._30-nov-03-dec {
+    color: #ffffff;
+    font: 400 14px/21.32px "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+}
+
+.heading-2-the-wait-is-on-i-phone-14-max-pro {
+    color: #ffffff;
+    font: 400 24px/25.58px "Source Sans Pro", sans-serif;
+}
+
+.heading-3-999-00 {
+    color: #e4573d;
+    font: 700 20px/25.58px "Source Sans Pro", sans-serif;
+}
+
+.link {
+    background: #ffffff;
+    border-radius: 44.41px;
+    padding: 6.39px 19.86px 8.7px 19.54px;
+    display: inline-block;
+}
+
+.shop-now {
+    color: #4651a0;
+    font: 700 12.43px/21.32px "Inter", sans-serif;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .heading-2-the-wait-is-on-i-phone-14-max-pro {
+        font-size: 20px;
+    }
+
+    .heading-3-999-00 {
+        font-size: 16px;
+    }
+
+    .link {
+        padding: 6px 15px 8px 15px;
+    }
+
+    .shop-now {
+        font-size: 10px;
+    }
+}
+
+.div-section-footer,
+.div-section-footer * {
+    box-sizing: border-box;
+}
+
+.div-section-footer {
+    background: #000000;
+    padding: 4% 6%; /* Adjust the padding as needed */
+    flex-shrink: 0;
+    max-width: 1532px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.frame-1000004437 {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.frame-1000004436 {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 210.29px;
+    height: auto;
+    position: relative;
+}
+
+.frame-1000004435 {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 168px;
+    height: auto;
+    position: relative;
+}
+
+.div-footer-widget {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 373px;
+    position: relative;
+}
+
+.div-app-visa-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.p-h-2-d-95-a-2-a-0-a-2 {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.div-app-google-img {
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+    position: relative;
+}
+
+/* Adjust font sizes and other properties for responsiveness */
+.heading-3-contact-us,
+.gamers-store-no-1259-freedom-lagos-nigeria,
+.item-91-987654321,
+.item-demo-exampledemo-com,
+.heading-3-information,
+.item-link-product-support,
+.item-link-checkout,
+.item-link-license-policy,
+.item-link-affiliate,
+.heading-3-customer-service,
+.item-link-help-center,
+.item-link-redeem-voucher,
+.item-link-contact-us,
+.item-link-policies-rules,
+.heading-3-download-our-app,
+.download-our-app-and-get-extra-15-discount-on-your-first-order {
+    font-size: 14px;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1200px) {
+    .div-section-footer {
+        padding: 4% 4%;
+    }
+
+    .frame-1000004437 {
+        left: 0;
+        top: 0;
+    }
+
+    .div-footer-widget {
+        width: 100%;
+        max-width: none;
+    }
+
+    .div-app-visa-wrap,
+    .div-app-google-img {
+        padding: 0;
+        gap: 15px;
+    }
+
+    .link-app-store-jpg,
+    .link-google-play-jpg {
+        width: 140px;
+        height: 40px;
+        max-width: 140px;
+    }
+}
+
+
+.footer,
+.footer * {
+    box-sizing: border-box;
+}
+.footer {
+    background: #f8f8f8;
+    padding: 15px 109.6px 15px 109.6px;
+    flex-shrink: 0;
+    width: 1532px;
+    height: 62px;
+    position: relative;
+}
+.copyright-gamers-built-by-smooth-capital {
+    color: #444444;
+    text-align: left;
+    font: 400 14px/26.1px "Inter", sans-serif;
+    position: absolute;
+    left: 196px;
+    top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.link-payment-method-png {
+    width: 224px;
+    height: 32px;
+    position: absolute;
+    right: 208px;
+    top: calc(50% - 16px);
+    overflow: hidden;
+}
+
+
+.footer,
+.footer * {
+    box-sizing: border-box;
+}
+
+.footer {
+    background: #f8f8f8;
+    padding: 1% 6%; /* Adjust the padding as needed */
+    flex-shrink: 0;
+    max-width: 1532px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    /*align-items: center;
+    justify-content: center;*/
+    flex-direction: column;
+    gap: 15px;
+}
+
+.copyright-gamers-built-by-smooth-capital {
+    color: #444444;
+    text-align: center;
+    font: 400 14px/26.1px "Inter", sans-serif;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.link-payment-method-png {
+    width: 100%;
+    max-width: 224px;
+    height: auto;
+    position: relative;
+    right: 0;
+    top: 0;
+    display: block;
+}
